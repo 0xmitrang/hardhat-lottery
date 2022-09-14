@@ -43,7 +43,7 @@ const config: HardhatUserConfig = {
         // token: "MATIC"
     },
     mocha: {
-        timeout: 200000, // 200 seconds max for running tests
+        timeout: 300000, // 300 seconds max for running tests
     },
 }
 
